@@ -1,0 +1,301 @@
+text,label
+"I can’t believe this happened",anger
+"Stop talking to me right now",anger
+"I'm furious about what you said",anger
+"This is so unfair!",anger
+"Why would you do that?",anger
+"That’s it, I’ve had enough",anger
+"You crossed the line today",anger
+"I can’t stand when this happens",anger
+"Every time you do that I lose it",anger
+"Get out of my sight",anger
+"I told you not to touch that",anger
+"You make me so mad sometimes",anger
+"I feel rage boiling inside me",anger
+"This situation is ridiculous",anger
+"I’m completely done with this",anger
+"Don’t ever speak to me like that again",anger
+"Unbelievable! How could you?",anger
+"I won’t forgive this",anger
+"I’m beyond angry right now",anger
+"Enough is enough!",anger
+"This makes my blood boil",anger
+"I’m losing my patience fast",anger
+"Every word out of your mouth annoys me",anger
+"I can’t tolerate this nonsense",anger
+"I’m shaking I’m so angry",anger
+"That comment was out of line",anger
+"You always ruin everything",anger
+"I don’t deserve this disrespect",anger
+"That’s not what we agreed on!",anger
+"You’ve made me furious",anger
+"I hate when people lie to my face",anger
+"How many times do I have to say it?",anger
+"This project is a disaster",anger
+"I’m tired of repeating myself",anger
+"This was a total waste of time",anger
+"I can’t deal with your attitude",anger
+"Everything went wrong again",anger
+"I’m done being nice",anger
+"This is absolutely infuriating",anger
+"You just had to make it worse",anger
+"How dare you talk to me like that?",anger
+"Nothing ever goes right anymore",anger
+"I’ve never been this mad",anger
+"You’re testing my limits",anger
+"I feel like screaming",anger
+"I’m boiling inside",anger
+"I won’t let this slide",anger
+"Not again!",anger
+"This was the last straw",anger
+"Unacceptable!",anger
+"I’m worried about tomorrow",fear
+"I have a bad feeling about this",fear
+"I don’t know what’s going to happen",fear
+"My hands won’t stop shaking",fear
+"I’m scared to tell them the truth",fear
+"I can’t sleep thinking about it",fear
+"Something’s not right",fear
+"I’m nervous about the results",fear
+"I feel trapped",fear
+"I can’t shake this unease",fear
+"What if everything goes wrong?",fear
+"I feel unsafe",fear
+"I can’t handle another loss",fear
+"Every sound makes me jump",fear
+"I’m sweating just thinking about it",fear
+"This can’t be happening",fear
+"My chest feels tight",fear
+"I feel cold inside",fear
+"I can’t breathe",fear
+"I wish I could run away",fear
+"I’m terrified of failing",fear
+"What if they find out?",fear
+"I’m not ready",fear
+"I can’t do this alone",fear
+"I’m shaking so much",fear
+"Please let this end soon",fear
+"I can’t face them",fear
+"This is beyond my control",fear
+"Why is my heart racing?",fear
+"I’m scared of losing everything",fear
+"Something’s wrong, I can feel it",fear
+"I’m in over my head",fear
+"I can’t handle this pressure",fear
+"My mind keeps racing",fear
+"I’m afraid of what’s next",fear
+"I feel watched",fear
+"I can’t think straight",fear
+"I’m losing control",fear
+"Please don’t let them see me",fear
+"I can’t go back there",fear
+"I keep hearing things",fear
+"I don’t trust anyone right now",fear
+"I’m paralyzed with fear",fear
+"I feel hunted",fear
+"I’m not strong enough",fear
+"Everything feels dangerous",fear
+"I can’t move",fear
+"This is too much",fear
+"I don’t feel safe here",fear
+"I’m terrified",fear
+"Today was amazing",joy
+"I got the job!",joy
+"Life feels perfect right now",joy
+"I’m smiling just thinking about it",joy
+"That made my whole day",joy
+"I can’t stop laughing",joy
+"This is the best feeling ever",joy
+"I feel light and free",joy
+"Everything’s going my way",joy
+"I can’t believe how lucky I am",joy
+"I feel unstoppable",joy
+"That song makes me so happy",joy
+"I’m full of energy today",joy
+"I can’t stop smiling",joy
+"I’m having the time of my life",joy
+"This moment is pure bliss",joy
+"I feel so alive",joy
+"I’m so proud of myself",joy
+"I could dance all day",joy
+"Everything feels right",joy
+"I’m glowing inside",joy
+"I feel joy in every breath",joy
+"I can’t wait to do it again",joy
+"That was so much fun",joy
+"I’m beyond excited",joy
+"I feel peace and happiness",joy
+"I’m grateful for today",joy
+"This was a dream come true",joy
+"I can’t believe it worked!",joy
+"I feel blessed",joy
+"This is everything I wanted",joy
+"My heart is full",joy
+"I’m living my best life",joy
+"I can’t stop humming",joy
+"I feel so inspired",joy
+"I’m just happy to be here",joy
+"I love this day",joy
+"This moment feels magical",joy
+"I’m thrilled beyond words",joy
+"I feel at peace",joy
+"I’m so thankful",joy
+"I feel pure joy",joy
+"I’m ecstatic",joy
+"I can’t wait to celebrate",joy
+"I’m over the moon",joy
+"I feel weightless",joy
+"Everything feels bright",joy
+"This is happiness",joy
+"I’m in love with life",joy
+"I feel radiant",joy
+"That was so thoughtful of you",love
+"You mean the world to me",love
+"I’m so lucky to have you",love
+"I feel safe when I’m with you",love
+"My heart belongs to you",love
+"I adore you",love
+"I can’t stop thinking about you",love
+"You always know how to make me smile",love
+"You complete me",love
+"I trust you with my life",love
+"I love you more each day",love
+"You’re my favorite person",love
+"I’d do anything for you",love
+"I feel at home with you",love
+"I’m happiest when I’m with you",love
+"You make everything better",love
+"I cherish every moment with you",love
+"You’re my everything",love
+"I miss you already",love
+"You’re all I need",love
+"You’re the reason I wake up happy",love
+"I’m so proud of you",love
+"I can’t wait to see you",love
+"I’ll always support you",love
+"I believe in you",love
+"I’d cross oceans for you",love
+"You bring out the best in me",love
+"I feel whole when you’re near",love
+"You make me feel seen",love
+"I love how you laugh",love
+"You make my heart race",love
+"I’m so thankful for you",love
+"You’re the best thing that’s ever happened to me",love
+"I love every little thing about you",love
+"You always know what to say",love
+"I feel lucky beyond words",love
+"You’re my forever",love
+"I can’t imagine life without you",love
+"You’re my favorite hello",love
+"You make life worth living",love
+"I’ll never stop loving you",love
+"I feel calm when I see you",love
+"You make me better",love
+"You’re my home",love
+"I love your smile",love
+"You’re perfect to me",love
+"I want you always",love
+"I’m so grateful for our love",love
+"You are my person",love
+"I love being yours",love
+"I miss you so much",sadness
+"I feel completely alone",sadness
+"I wish things were different",sadness
+"My heart hurts today",sadness
+"I just want to cry",sadness
+"I feel empty inside",sadness
+"I can’t stop thinking about what I lost",sadness
+"I feel forgotten",sadness
+"Nothing feels the same anymore",sadness
+"I don’t see the point",sadness
+"I’m tired of pretending",sadness
+"I can’t stop crying",sadness
+"I feel invisible",sadness
+"I just want to disappear",sadness
+"I feel like I failed",sadness
+"I’m broken inside",sadness
+"Everything feels heavy",sadness
+"I feel stuck in this pain",sadness
+"I can’t move on",sadness
+"I’m losing hope",sadness
+"I feel numb",sadness
+"I don’t belong anywhere",sadness
+"I feel unwanted",sadness
+"Why does it hurt so much?",sadness
+"I wish I could forget",sadness
+"I can’t find the energy to try",sadness
+"I feel small",sadness
+"I’m not okay",sadness
+"I don’t want to talk to anyone",sadness
+"I feel like I’m fading",sadness
+"I’m missing something I can’t replace",sadness
+"I feel like giving up",sadness
+"I’m drowning in my thoughts",sadness
+"I feel hopeless",sadness
+"I just want the pain to stop",sadness
+"I feel lost",sadness
+"I miss how things used to be",sadness
+"I feel broken",sadness
+"I don’t know how to keep going",sadness
+"I wish I could start over",sadness
+"I feel hollow",sadness
+"I can’t stop the tears",sadness
+"I feel useless",sadness
+"I feel empty",sadness
+"I’m tired of this pain",sadness
+"I can’t find joy anymore",sadness
+"I feel so small",sadness
+"I wish I could sleep forever",sadness
+"I just want peace",sadness
+"I can’t escape my thoughts",sadness
+"Wow I did not see that coming",surprise
+"No way that just happened!",surprise
+"Are you serious right now?",surprise
+"That totally caught me off guard",surprise
+"I didn’t expect that result!",surprise
+"I’m shocked!",surprise
+"That’s incredible!",surprise
+"I can’t believe it!",surprise
+"What a twist!",surprise
+"That blew my mind",surprise
+"Wait, really?",surprise
+"I never saw that coming",surprise
+"This is unbelievable!",surprise
+"I didn’t think that was possible",surprise
+"That’s unexpected",surprise
+"Whoa, that’s crazy!",surprise
+"I’m speechless",surprise
+"I didn’t think this would happen",surprise
+"That’s so random",surprise
+"I didn’t plan for this",surprise
+"I’m completely stunned",surprise
+"That’s wild!",surprise
+"How did that even happen?",surprise
+"I can’t process this right now",surprise
+"That’s beyond anything I imagined",surprise
+"That news came out of nowhere",surprise
+"I’m amazed",surprise
+"I’m in awe",surprise
+"That’s shocking",surprise
+"That’s insane!",surprise
+"Wow just wow",surprise
+"That’s unbelievable!",surprise
+"That’s so strange",surprise
+"I can’t believe my eyes",surprise
+"I didn’t expect that at all",surprise
+"That’s totally unexpected",surprise
+"This is new",surprise
+"That’s a surprise for sure",surprise
+"Never thought I’d see this day",surprise
+"I’m so surprised",surprise
+"That caught me by surprise",surprise
+"I’m genuinely shocked",surprise
+"This is mind-blowing",surprise
+"I didn’t prepare for this",surprise
+"That’s extraordinary",surprise
+"That came out of the blue",surprise
+"I didn’t think it’d turn out like this",surprise
+"That’s fascinating",surprise
+"I can’t believe what I’m seeing",surprise
+"That result is wild",surprise
