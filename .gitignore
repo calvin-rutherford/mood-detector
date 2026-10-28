@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# New local models; the existing tracked baseline remains preserved.
+*.joblib
+.streamlit/secrets.toml
